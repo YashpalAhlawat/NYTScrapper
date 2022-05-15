@@ -13,7 +13,7 @@ Develop a scraper project to automate data extraction using Selenium Python and 
 
 
 
-###Pre requisite
+### Pre requisite
 1. you have python installed on system
 2. Get the webdriver for the same version as the chrome from https://chromedriver.chromium.org/downloads
 3. place chromedriver in Resource folder
@@ -24,9 +24,9 @@ Develop a scraper project to automate data extraction using Selenium Python and 
 8. go to the endpoint http://localhost:2051/news/tech-latest
 
 
-#TODO 
-Avoid Captcha ang get details for accont and NYT is blockin login using script.
-All steps has been completed except for Account details as nyt is captcha is blocking login.
+### TODO 
+##### Avoid Captcha ang get details for accont and NYT is blockin login using script.
+##### All steps has been completed except for Account details as nyt is captcha is blocking login.
 
 
 For , Fetching NYT latest tech post, script open and login to the website, if captcha come. It will go back to default view (guest)
